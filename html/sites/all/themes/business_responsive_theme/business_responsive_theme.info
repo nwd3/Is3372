@@ -35,9 +35,9 @@ settings[twitter_username] = "zymphonies"
 settings[facebook_username] = "zymphonies"
 
 
-; Information added by Drupal.org packaging script on 2015-03-19
-version = "7.x-2.1"
+; Information added by Drupal.org packaging script on 2017-11-17
+version = "7.x-2.2"
 core = "7.x"
 project = "business_responsive_theme"
-datestamp = "1426789899"
+datestamp = "1510947793"
 
