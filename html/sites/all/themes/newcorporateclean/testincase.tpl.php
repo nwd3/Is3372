@@ -109,23 +109,6 @@
             	<div class="grid_12">
                 
                 <!--slider-item content-->
-                <h2>Engraved Selection</h2>
-                
-                <br/>
-                <div style="display:block; padding:30px 0 10px 0;"><a class="more" href="#">Tell me more</a></div>
-                <!--EOF:slider-item content-->
-                
-				</div>
-            </div>
-        </div>
-        <!--EOF:slider-item-->
-        
-        <!--slider-item-->
-        <div class="slider-item">
-            <div class="content container_12">
-            	<div class="grid_12">
-                
-                <!--slider-item content-->
                 <img class="masked" src="<?php print base_path() . drupal_get_path('theme', 'corporateclean') ;?>/mockup/slide-3.jpg"/>
                 <!--EOF:slider-item content-->
 				</div>
