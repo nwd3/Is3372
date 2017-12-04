@@ -1,0 +1,22 @@
+#header #header-inside {
+  margin-left: 6px;
+  margin-right: 250px;
+  border-top-width: 0px;
+  padding-bottom: 0px;
+  padding-top: 0px;
+}
+
+#block-commerce-cart-cart h2 {
+  padding-right: 0px;
+  border-right-width: 0px;
+  border-left-width: 0px;
+  margin-left: 0px;
+  margin-top: 0px;
+  width: 614px;
+}
+
+body #header {
+  padding-top: 0px;
+  height: 100px;
+}
+
